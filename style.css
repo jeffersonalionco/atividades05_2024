@@ -1,0 +1,21 @@
+body{
+    margin: 10px;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+}
+
+button {
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(0, 117, 25);
+}
+
+input {
+    box-shadow: 3px -3px teal;
+}
